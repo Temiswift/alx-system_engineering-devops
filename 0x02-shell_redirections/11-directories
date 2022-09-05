@@ -1,2 +1,2 @@
 #!/bin/bash
-find . - test -type f -print | wc -i
+find . -type f -print | wc -l
